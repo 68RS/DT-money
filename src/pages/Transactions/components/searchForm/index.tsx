@@ -8,6 +8,7 @@ export const SearchForm = () => {
 
         <button type="submit">
             <MagnifyingGlass size={20} />
+            Buscar
         </button>
     </SearchFormContainer>
   )
