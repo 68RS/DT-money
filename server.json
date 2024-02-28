@@ -1,0 +1,21 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "incone",
+            "category": "Venda",
+            "price": "1400",
+            "createdAT": "2024-02-27T23:43:41.454Z"
+        },
+        
+        {
+            "id": 2,
+            "description": "Hanburger",
+            "type": "outcome",
+            "category": "Alimentação",
+            "price": "30",
+            "createdAT": "2024-02-27T23:30:41.454Z"
+        }
+    ] 
+}
